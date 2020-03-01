@@ -1,0 +1,14 @@
+{
+  "name": "custom-app",
+  "version": "1.0.0",
+  "description": "An app with single functionality. It enables you to kill it.",
+  "author": "Tasos Martidis <martidis.tasos@gmail.com>",
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}

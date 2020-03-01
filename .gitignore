@@ -1,0 +1,6 @@
+grafana-data
+.idea
+custom-app/node_modules
+custom-app/build
+custom-app/npm-debug.log
+custom-app/package-lock.json
